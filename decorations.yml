@@ -1,0 +1,80 @@
+Hats:
+  "海龟帽子":
+    Name: "海龟帽子"
+    Material: TURTLE_HELMET
+  "海龟帽子":
+    Name: "海龟帽子"
+    Material: TURTLE_HELMET
+Cloths:
+  "海龟衣服":
+    Name: "海龟衣服"
+    Material: LEATHER_CHESTPLATE
+    Color:
+      R: 0
+      G: 255
+      B: 0
+Pants:
+  "海龟裤子":
+    Name: "海龟裤子"
+    Material: LEATHER_LEGGINGS
+    Color:
+      R: 0
+      G: 255
+      B: 0
+Boots:
+  "海龟鞋子":
+    Name: "海龟鞋子"
+    Material: LEATHER_BOOTS
+    Color:
+      R: 0
+      G: 255
+      B: 0
+Auras:
+  "红色光环":
+    Name: "红色光环"
+    Material: FIRE_CORAL
+    AuraColors:
+      "1":
+        R: 255
+        G: 0
+        B: 0
+  "蓝色光环":
+    Name: "蓝色光环"
+    Material: TUBE_CORAL
+    AuraColors:
+      "1":
+        R: 0
+        G: 0
+        B: 255
+  "黄色光环":
+    Name: "黄色光环"
+    Material: HORN_CORAL
+    AuraColors:
+      "1":
+        R: 255
+        G: 255
+        B: 0
+  "紫色光环":
+    Name: "紫色光环"
+    Material: BUBBLE_CORAL
+    AuraColors:
+      "1":
+        R: 160
+        G: 32
+        B: 240
+  "粉色光环":
+    Name: "粉色光环"
+    Material: BRAIN_CORAL
+    AuraColors:
+      "1":
+        R: 255
+        G: 182
+        B: 193
+  "灰色光环":
+    Name: "灰色光环"
+    Material: DEAD_BRAIN_CORAL_FAN
+    AuraColors:
+      "1":
+        R: 211
+        G: 211
+        B: 211

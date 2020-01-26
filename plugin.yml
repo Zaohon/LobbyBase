@@ -1,0 +1,21 @@
+api-version: 1.13
+name: Lobby
+version: 0.1
+author: Zao_hon
+main: cn.blockmc.Zao_hon.Lobby
+softdepends: [AnvilLogin]
+commands:
+    VoidTP:
+        aliases: [spawn]
+    TpLogin:
+        aliases: [tplogin,spawn]
+    Lobby:
+        aliases: [lobby,lb]
+permissions:
+    Lobby.Reload:
+        default: op
+    VoidTP.Admin:
+        default: op
+    NoDrop.ignore:
+        default: op
+        

@@ -1,0 +1,38 @@
+
+VoidTP:
+  Enable: true
+  height: 0
+  Location: 
+    world:
+    x:
+    y:
+    z:
+    pitch:
+    yaw:
+    
+DoubleJump:
+  Enable: true
+  JumpLevel: 2
+  Sound: ENTITY_FIREWORK_ROCKET_SHOOT
+  Particle: SLIME
+  
+NoDrop:
+  Enable: true
+  All: true
+  List:
+    - DIAMOND
+    
+ServerMenu:
+  Enable: true
+  
+Decoration:
+  Enable: true
+  LotteryCost: 50
+  
+Mysql:
+  Enable: false
+  host: localhost
+  port: 3306
+  username: root
+  password: 123456
+  database: lobby

@@ -1,0 +1,19 @@
+Settings:
+  Name: "§b服务器传送菜单"
+  Size: 9
+  Refresh-time: 50
+  Item:
+    Name: "§b服务器传送菜单"
+    Material: COMPASS
+Menu:
+  0:
+    Material: GRASS_BLOCK
+    Name: "§a生存服"
+    Lores:
+      - "§a§l体验原版1.13的乐趣！"
+      - "§a%players%§7/§f%maxplayers%"
+    To-Server: Survival
+    Position: 0
+Servers:
+  Lobby: 192.168.0.3:25566
+  Survival: 192.168.0.3:25567
